@@ -45,10 +45,12 @@ The third term, -t ω, represents the point's position at time t. The point's an
 
 
 ### Impedance
-`Z= 1 / (2 pi f C)` 
+`Z= sqrt(R^2+(Xl-Xc)^2)` Z=impedance, R= resistance, Xl= inductive reactance, Xc= capacitive reactance
+
+The impedance of a material is a measure of its opposition to the flow of an alternating current (AC). The higher the impedance of a material, the more it opposes the flow of current. This equation calculates the impedance,  Z, of a circuit. R is the resistance of the circuit, Xl is the inductive reactance, and Xc is the capacitive reactance. The impedance is the combined effect of the resistance and reactance on the current in the circuit.
 
 ### Q-Factor
-`Q= 1 / (R C)`
+ 
 
 
 ### Tau
@@ -56,7 +58,7 @@ The third term, -t ω, represents the point's position at time t. The point's an
 
 
 ### Bandwidth
-`BW = 1 / (2 pi R C)`
+ 
 
 
 
