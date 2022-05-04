@@ -18,12 +18,14 @@ the follwing is still in draft, contains errors
 - ω = angular frequency (rad/s), 
 - P=ϕ=phase angle 
 
-F= 1 / T
-A= x / (sin (ωt + ϕ))
+### F= 1 / T
 
+
+### A= x / (sin (ωt + ϕ))
 
 
 ### P= -sin^(-1)(x/A) + 2 π n - t ω + π and A!=0 and x!=0 and n element Z
+![]()
 
 This equation describes the position of a point on a circular path as a function of time. P is the position of the point, A is the radius of the circle, n is an arbitrary integer, t is time, and ω is the angular velocity of the point.
 
