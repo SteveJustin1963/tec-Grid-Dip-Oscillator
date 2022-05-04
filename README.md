@@ -6,13 +6,14 @@ Yes, a grid-dip oscillator (GDO) can be controlled with software. A GDO is an el
 
 
 ```
-F=frequency, A=amplitude, P=phase, Z=impedance, Q=Q-factor, B=bandwidth 
+F=frequency, A=amplitude, P=phase, Z=impedance, Q=Q-factor, T=tau, B=bandwidth
 
 Ff=A/P 
 A=Ff*P 
 P=A/Ff 
 Z=1/(2*pi*f*C) 
-Q=1/(R*C) 
+Q=1/(R*C)
+T=R*C
 B=1/(2*pi*R*C)
 ```
  
