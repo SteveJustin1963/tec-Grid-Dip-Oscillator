@@ -86,8 +86,7 @@ f_c	=	cutoff frequency
 
 ### Bandwidth
 " Bandwidth is the difference between the upper and lower frequencies in a continuous band of frequencies. It is typically measured in hertz, and depending on context, may specifically refer to passband bandwidth or baseband bandwidth. Passband bandwidth is the difference between the upper and lower cutoff frequencies of, for example, a band-pass filter, a communication channel, or a signal spectrum. Baseband bandwidth applies to a low-pass filter or baseband signal; the bandwidth is equal to its upper cutoff frequency."
-"In some contexts, the signal bandwidth in hertz refers to the frequency range in which the signal's spectral density (in W/Hz or V2/Hz) is nonzero or above a small threshold value. The threshold value is often defined relative to the maximum value, and is most commonly the 3 dB point, that is the point where the spectral density is half its maximum value (or the spectral amplitude, in  ![image](https://user-images.githubusercontent.com/58069246/166680901-ef5e979e-522b-48a5-980d-4e1bd74c76f3.png) or  ![image](https://user-images.githubusercontent.com/58069246/166681102-95009a52-ba7e-4e0f-94a9-b5cf6fe5371b.png)
-, is 70.7% of its maximum).[3] This figure, with a lower threshold value, can be used in calculations of the lowest sampling rate that will satisfy the sampling theorem."
+"In some contexts, the signal bandwidth in hertz refers to the frequency range in which the signal's spectral density (in W/Hz or V2/Hz) is nonzero or above a small threshold value. The threshold value is often defined relative to the maximum value, and is most commonly the 3 dB point, that is the point where the spectral density is half its maximum value (or the spectral amplitude, in `V` or  `V/sqrt(Hz)`, is 70.7% of its maximum).[3] This figure, with a lower threshold value, can be used in calculations of the lowest sampling rate that will satisfy the sampling theorem."
 
 
 
