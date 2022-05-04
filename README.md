@@ -17,6 +17,7 @@ the follwing is still in draft, contains errors
 - x = Displacement of wave
 - ω = Angular frequency (rad/s), 
 - P = ϕ = Phase angle 
+- c = is the speed of light = 299,792,458 metres / second 
 
 ### Frequency
 `F= 1 / T`
