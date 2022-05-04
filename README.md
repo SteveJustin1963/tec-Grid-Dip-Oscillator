@@ -1,7 +1,9 @@
 # tec-Grid-Dip-Oscillator
 tec1 controlled Grid dip oscillator
 
-Yes, a grid-dip oscillator (GDO) can be controlled with software. A GDO is an electronic device that is used to measure the characteristics of an electrical signal. It can be used to measure the frequency, amplitude, phase, and other parameters of an electrical signal.and can be used to determine the impedance of an electrical circuit.and can also be used to determine the Q factor of an electrical circuit.and can be used to determine the bandwidth of an electrical circuit.  
+Grid dip oscillator (GDO), also called grid dip meter, gate dip meter, dip meter, or just dipper, is a type of electronic instrument that measures the resonant frequency of nearby unconnected radio frequency tuned circuits.
+
+Yes, a grid-dip oscillator (GDO) can be controlled with software maybe a tec1. A GDO is an electronic device that is used to measure the characteristics of an electrical signal. It can be used to measure the frequency, amplitude, phase, and other parameters of an electrical signal.and can be used to determine the impedance of an electrical circuit.and can also be used to determine the Q factor of an electrical circuit.and can be used to determine the bandwidth of an electrical circuit.  
 
 - F = Frequency
 - A = Amplitude
