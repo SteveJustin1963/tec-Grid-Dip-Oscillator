@@ -72,7 +72,7 @@ Equivalently (for large values of Q), the Q factor is approximately the number o
 
 ![image](https://user-images.githubusercontent.com/58069246/166679436-b7f6ee12-1b1f-4781-8d30-da6f61103502.png)
 
-
+`Delta(f)=fN/Q`
 
 ### Tau
 Tau = RC = 1/(2 Pi F_c)
