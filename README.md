@@ -69,17 +69,24 @@ The impedance of a material is a measure of its opposition to the flow of an alt
 It is a dimensionless parameter that compares the exponential time constant τ for decay of an oscillating physical system's amplitude to its oscillation period. Equivalently, it compares the frequency at which a system oscillates to the rate at which it dissipates its energy. More precisely, the frequency and period used should be based on the system's natural frequency, which at low Q values is somewhat higher than the oscillation frequency as measured by zero crossings.
 
 Equivalently (for large values of Q), the Q factor is approximately the number of oscillations required for a freely oscillating system's energy to fall off to e−2π, or about 1⁄535 or 0.2%, of its original energy.[14] This means the amplitude falls off to approximately e−π or 4% of its original amplitude.[15]"
+
 ![image](https://user-images.githubusercontent.com/58069246/166679436-b7f6ee12-1b1f-4781-8d30-da6f61103502.png)
 
 
 
 ### Tau
-`Tau = RC = 1/(2 Pi Fc) ... r=resistance, C=Capacitance, Fc=freq cut off`
+Tau = RC = 1/(2 Pi F_c)
+
+tau	=	RC time constant
+R	=	resistance
+C	=	capacitance
+f_c	=	cutoff frequency
+
 
 
 ### Bandwidth
- 
-
+" Bandwidth is the difference between the upper and lower frequencies in a continuous band of frequencies. It is typically measured in hertz, and depending on context, may specifically refer to passband bandwidth or baseband bandwidth. Passband bandwidth is the difference between the upper and lower cutoff frequencies of, for example, a band-pass filter, a communication channel, or a signal spectrum. Baseband bandwidth applies to a low-pass filter or baseband signal; the bandwidth is equal to its upper cutoff frequency."
+"In some contexts, the signal bandwidth in hertz refers to the frequency range in which the signal's spectral density (in W/Hz or V2/Hz) is nonzero or above a small threshold value. The threshold value is often defined relative to the maximum value, and is most commonly the 3 dB point, that is the point where the spectral density is half its maximum value (or the spectral amplitude, in  ![image](https://user-images.githubusercontent.com/58069246/166680901-ef5e979e-522b-48a5-980d-4e1bd74c76f3.png) or https://wikimedia.org/api/rest_v1/media/math/render/svg/a8340f6e46e78f339f043194adc721bacd2f6f00 , is 70.7% of its maximum).[3] This figure, with a lower threshold value, can be used in calculations of the lowest sampling rate that will satisfy the sampling theorem."
 
 
 
@@ -87,6 +94,8 @@ Equivalently (for large values of Q), the Q factor is approximately the number o
 ## Ref
 - https://en.wikipedia.org/wiki/Grid_dip_oscillator
 - https://en.wikipedia.org/wiki/Q_factor
+- https://en.wikipedia.org/wiki/Time_constant
+- https://en.wikipedia.org/wiki/RC_time_constant
 - https://en.wikipedia.org/wiki/Amplitude
 - https://en.wikipedia.org/wiki/Phase_(waves)
 - https://en.wikipedia.org/wiki/Wave_impedance
