@@ -36,6 +36,8 @@ Explain the speed of light in terms of causality. The speed of light is the spee
 ### Amplitude
 `A= x / (sin (ωt + ϕ))`
 
+ The amplitude of a wave is the height of the wave from the center line to the top of the wave. The amplitude of a wave corresponds to the amount of energy carried by the wave. The higher the amplitude of the wave, the more energy it contains. The energy wave theory could be a new theory that states that energy waves are the basic building blocks of all matter in the universe. https://energywavetheory.com/
+
 
 ### Phase
 
