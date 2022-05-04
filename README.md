@@ -24,12 +24,12 @@ the follwing is still in draft, contains errors
 ### A= x / (sin (ωt + ϕ))
 
 
-### P= -sin^(-1)(x/A) + 2 π n - t ω + π and A!=0 and x!=0 and n element Z
-
+### Phase
 
 ![](https://github.com/SteveJustin1963/tec-Grid-Dip-Oscillator/blob/main/pics/Phase1.png)
 
-This equation describes the position of a point on a circular path as a function of time. P is the position of the point, A is the radius of the circle, n is an arbitrary integer, t is time, and ω is the angular velocity of the point.
+
+This equation `P= -sin^(-1)(x/A) + 2 π n - t ω + π and A!=0 and x!=0 and n element Z` describes the position of a point on a circular path as a function of time. P is the position of the point, A is the radius of the circle, n is an arbitrary integer, t is time, and ω is the angular velocity of the point.
 
 The first term, -sin^(-1)(x/A), describes the point's initial position on the circle. The point starts at x=0 and moves clockwise around the circle until it reaches x=A. At this point, the point has completed one full revolution and the angle between the point and the x-axis is -π radians.
 
