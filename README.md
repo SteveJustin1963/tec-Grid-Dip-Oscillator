@@ -63,7 +63,14 @@ The third term, -t ω, represents the point's position at time t. The point's an
 The impedance of a material is a measure of its opposition to the flow of an alternating current (AC). The higher the impedance of a material, the more it opposes the flow of current. This equation calculates the impedance,  Z, of a circuit. R is the resistance of the circuit, Xl is the inductive reactance, and Xc is the capacitive reactance. The impedance is the combined effect of the resistance and reactance on the current in the circuit.
 
 ### Q-Factor
- 
+" In physics and engineering, the quality factor or Q factor is a dimensionless parameter that describes how underdamped an oscillator or resonator is. It is defined as the ratio of the initial energy stored in the resonator to the energy lost in one radian of the cycle of oscillation.[1] Q factor is alternatively defined as the ratio of a resonator's centre frequency to its bandwidth when subject to an oscillating driving force. These two definitions give numerically similar, but not identical, results.[2] Higher Q indicates a lower rate of energy loss and the oscillations die out more slowly. A pendulum suspended from a high-quality bearing, oscillating in air, has a high Q, while a pendulum immersed in oil has a low one. Resonators with high quality factors have low damping, so that they ring or vibrate longer."
+"Physically speaking, Q is approximately the ratio of the stored energy to the energy dissipated over one radian of the oscillation; or nearly equivalently, at high enough Q values, 2π times the ratio of the total energy stored and the energy lost in a single cycle.[13]
+
+It is a dimensionless parameter that compares the exponential time constant τ for decay of an oscillating physical system's amplitude to its oscillation period. Equivalently, it compares the frequency at which a system oscillates to the rate at which it dissipates its energy. More precisely, the frequency and period used should be based on the system's natural frequency, which at low Q values is somewhat higher than the oscillation frequency as measured by zero crossings.
+
+Equivalently (for large values of Q), the Q factor is approximately the number of oscillations required for a freely oscillating system's energy to fall off to e−2π, or about 1⁄535 or 0.2%, of its original energy.[14] This means the amplitude falls off to approximately e−π or 4% of its original amplitude.[15]"
+![image](https://user-images.githubusercontent.com/58069246/166679436-b7f6ee12-1b1f-4781-8d30-da6f61103502.png)
+
 
 
 ### Tau
