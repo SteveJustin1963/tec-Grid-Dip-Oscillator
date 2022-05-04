@@ -21,6 +21,16 @@ the follwing is still in draft, contains errors
 ### Frequency
 `F= 1 / T`
 
+Frequency is the number of times per second that a particular event occurs. In physics, the frequency of an event is often represented by the letter 'f'. How is it used in relation to wavelength? The frequency of a wave is related to its wavelength by the following equation:
+
+`f = c / λ`
+
+where 'c' is the speed of light and 'λ' is the wavelength of the wave.
+
+Why is the speed of light significant in this equation? The speed of light is significant in this equation because it is the speed at which all electromagnetic waves travel. This means that the higher the frequency of a wave, the shorter its wavelength will be.
+
+Explain the speed of light in terms of causality. The speed of light is the speed at which information travels between two points in space. It is the fastest possible speed at which information can travel. The speed of light is a fundamental limit on the speed at which information can travel. This is because the speed of light is the speed at which causality operates. Causality is the relationship between cause and effect. It is what allows us to say that one event is the cause of another event. If information could travel faster than the speed of light, then causality would be violated. This would mean that events could happen without any cause, which would be impossible.
+
 
 ### Amplitude
 `A= x / (sin (ωt + ϕ))`
